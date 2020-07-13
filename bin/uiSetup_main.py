@@ -68,13 +68,13 @@ class mainWin(QMainWindow):
 
 
     def init_signal(self):
-		pass
+	pass
 
     def init_ui(self):
-		pass
+	pass
 
     def update_ui(self):
-		pass
+	pass
 
     def init_style(self):
         self.stylesheet_string = diamond_dark.get_stylesheet()
