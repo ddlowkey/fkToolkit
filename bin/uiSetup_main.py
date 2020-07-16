@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-__author__ = 'Frank.Ding'
-
 import sys
 reload(sys)
 import os
